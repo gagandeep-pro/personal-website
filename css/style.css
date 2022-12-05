@@ -1,0 +1,58 @@
+body{
+    background-color: aliceblue;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.h1{
+    font-size: 5rem;
+    margin-top: 0;
+    font-family: 'Sacramento', Arial, Helvetica, sans-serif;
+    color: #65bfbf;
+}
+h2{
+    font-size: 2rem;
+    font-family:'Montserrat' ;
+    color: #65bfbf;
+}
+h3{
+    color: #11999E;
+}
+a{
+    color:#11999E;
+}
+p1{
+    font-family: 'Montserrat', sans-serif;
+}
+.mountain{
+    padding-bottom: 50px;
+}
+
+
+
+.top-container{
+    background-color:rgb(144, 90, 80);
+    position: relative;
+    padding-top: 100px;
+    height: 100vh;
+}
+.profile{
+    margin-top: 20px;
+}
+
+.top-cloud{
+    position:absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    top: 200px;
+    left: 150px;
+    
+}
+.s{
+    height: 100px;
+    width: 100p;
+}
